@@ -1,0 +1,17 @@
+C:\Users\YashodhaLankatilleka\Documents\.NET\WebScraper\WebScraper\WebScraper\bin\Debug\net6.0\WebScraper.exe
+C:\Users\YashodhaLankatilleka\Documents\.NET\WebScraper\WebScraper\WebScraper\bin\Debug\net6.0\WebScraper.deps.json
+C:\Users\YashodhaLankatilleka\Documents\.NET\WebScraper\WebScraper\WebScraper\bin\Debug\net6.0\WebScraper.runtimeconfig.json
+C:\Users\YashodhaLankatilleka\Documents\.NET\WebScraper\WebScraper\WebScraper\bin\Debug\net6.0\WebScraper.dll
+C:\Users\YashodhaLankatilleka\Documents\.NET\WebScraper\WebScraper\WebScraper\bin\Debug\net6.0\WebScraper.pdb
+C:\Users\YashodhaLankatilleka\Documents\.NET\WebScraper\WebScraper\WebScraper\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\YashodhaLankatilleka\Documents\.NET\WebScraper\WebScraper\WebScraper\obj\Debug\net6.0\WebScraper.csproj.AssemblyReference.cache
+C:\Users\YashodhaLankatilleka\Documents\.NET\WebScraper\WebScraper\WebScraper\obj\Debug\net6.0\WebScraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YashodhaLankatilleka\Documents\.NET\WebScraper\WebScraper\WebScraper\obj\Debug\net6.0\WebScraper.AssemblyInfoInputs.cache
+C:\Users\YashodhaLankatilleka\Documents\.NET\WebScraper\WebScraper\WebScraper\obj\Debug\net6.0\WebScraper.AssemblyInfo.cs
+C:\Users\YashodhaLankatilleka\Documents\.NET\WebScraper\WebScraper\WebScraper\obj\Debug\net6.0\WebScraper.csproj.CoreCompileInputs.cache
+C:\Users\YashodhaLankatilleka\Documents\.NET\WebScraper\WebScraper\WebScraper\obj\Debug\net6.0\WebScraper.csproj.CopyComplete
+C:\Users\YashodhaLankatilleka\Documents\.NET\WebScraper\WebScraper\WebScraper\obj\Debug\net6.0\WebScraper.dll
+C:\Users\YashodhaLankatilleka\Documents\.NET\WebScraper\WebScraper\WebScraper\obj\Debug\net6.0\refint\WebScraper.dll
+C:\Users\YashodhaLankatilleka\Documents\.NET\WebScraper\WebScraper\WebScraper\obj\Debug\net6.0\WebScraper.pdb
+C:\Users\YashodhaLankatilleka\Documents\.NET\WebScraper\WebScraper\WebScraper\obj\Debug\net6.0\WebScraper.genruntimeconfig.cache
+C:\Users\YashodhaLankatilleka\Documents\.NET\WebScraper\WebScraper\WebScraper\obj\Debug\net6.0\ref\WebScraper.dll

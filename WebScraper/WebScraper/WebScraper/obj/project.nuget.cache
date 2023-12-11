@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fdx2WhL+/0oXA28cTosLwt4GVD6mXu5nOGB32h6+B1iSfcHR43q+QWf5QABWnO+/qGxyCEOQGNRQ6rA82C17iQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YashodhaLankatilleka\\Documents\\.NET\\WebScraper\\WebScraper\\WebScraper\\WebScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YashodhaLankatilleka\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512"
+  ],
+  "logs": []
+}
